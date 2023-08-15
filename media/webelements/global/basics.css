@@ -1,6 +1,7 @@
 /* This is the main style file for http://nacroni.github.io. */
-/* -- EXPERIMENTAL BRANCH, 2023 -- */
-body,h1,h2,h3,h4,h5,h6 {font-family: sans-serif;}
+/* -- Main BRANCH, 2023 -- */
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
+body,h1,h2,h3,h4,h5,h6 {font-family: 'Wix Madefor Text', sans-serif;}
 
 .bordercorner {
   border-radius: 20px;

@@ -1,0 +1,11 @@
+/* This is the main style file for http://nacroni.github.io. */
+/* -- EXPERIMENTAL BRANCH, 2023 -- */
+body,h1,h2,h3,h4,h5,h6 {font-family: sans-serif;}
+.bordercorner {
+  border-radius: 20px;
+  background: #0c7bd6;
+  padding: 20px;
+}
+body {
+  background-color: #dddddd;
+}

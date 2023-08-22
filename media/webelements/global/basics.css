@@ -2,16 +2,24 @@
 /* -- Main BRANCH, 2023 -- */
 @import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
 body,h1,h2,h3,h4,h5,h6 {font-family: 'Wix Madefor Text', sans-serif;}
+/* Realtime Colors */
+:root {
+  --text: #000000;
+  --background: #f2f3f8;
+  --primary: #454e7d;
+  --secondary: #dee1ed;
+  --accent: #5a67a5;
+}
 
 .bordercorner {
   border-radius: 20px;
-  background: #0c7bd6;
+  background: --background;
   padding: 20px;
 }
 
 body {
-  background-color: #dddddd;
+  background-color: --accent;
 }
 
-nav {background-color: darkgrey;}
-.navbuttons {background-color: aliceblue;}
+nav {background-color: --secondary;}
+.navbuttons {background-color: --primary;}

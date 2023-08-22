@@ -18,8 +18,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: 'Wix Madefor Text', sans-serif;}
 }
 
 body {
-  background-color: --accent;
+  background: --accent;
 }
 
-nav {background-color: --secondary !important; }
-.navbuttons {background-color: --primary !important;}
+nav {background: --secondary; }
+.navbuttons {background: --primary;}

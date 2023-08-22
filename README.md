@@ -6,5 +6,5 @@ This is my website in a Github form, which is surprisingly more updated than the
 
 ## website links
 There are two forms of this website:
+* [nacroni-github-io.pages.dev](https://nacroni-github-io.pages.dev) (a secondary Cloudflare Pages one, kinda recommend this due to it being more faster and prioritized)
 * [nacroni.github.io](https://nacroni.github.io) (the main one)
-* [nacroni-github-io.pages.dev](https://nacroni-github-io.pages.dev) (a secondary Cloudflare Pages one)

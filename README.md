@@ -2,7 +2,7 @@
 Note: If you're seeing this while on the website, there may be an error with our Github Pages or Cloudflare Pages. Please contact [Nacroni](mailto:thespokenone209@hotmail.com) if this occurs.
 
 ## basic info
-This is my website in a Github form, surprisingly more updated than the [main website](https://nacroni.epizy.com).
+This is my website in a Git form.
 
 ## website links
 There are two forms of this website:

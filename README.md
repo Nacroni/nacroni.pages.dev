@@ -6,5 +6,5 @@ This is my website in a Git form.
 
 ## website links
 There are two forms of this website:
-* [nacroni-github-io.pages.dev](https://nacroni-github-io.pages.dev) (a secondary Cloudflare Pages one, kind of recommend this due to it being faster and prioritized)
+* [nacroni.pages.dev](https://nacroni.pages.dev) (a secondary Cloudflare Pages one, kind of recommend this due to it being faster and prioritized)
 * [nacroni.github.io](https://nacroni.github.io) (the main one)

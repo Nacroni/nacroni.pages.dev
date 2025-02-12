@@ -1,25 +1,9 @@
 /* This is the main style file for http://nacroni.github.io. */
-/* -- Main BRANCH, 2025 -- */
-@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Text&display=swap');
-body,h1,h2,h3,h4,h5,h6 {font-family: 'Wix Madefor Text', sans-serif;}
-/* Realtime Colors */
-:root {
-  --text: #000000;
-  --background: #f2f3f8;
-  --primary: #454e7d;
-  --secondary: #dee1ed;
-  --accent: #5a67a5;
-}
+/* -- main BRANCH, 2025 -- */
 
-.bordercorner {
-  border-radius: 20px;
-  background: --accent;
-  padding: 20px;
+.maintable {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
-
-body {
-  background: --accent;
-}
-
-nav {background: #dee1ed;} /* Testing out alternative code variant */
-.navbuttons {background: #454e7d; color: white; border-radius: 7px;}

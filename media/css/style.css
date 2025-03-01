@@ -1,6 +1,11 @@
 /* This is the main style file for http://nacroni.github.io. */
 /* -- main BRANCH, 2025 -- */
 
+body {
+    color: white;
+    background-color: black;
+}
+
 .maintable {
     position: absolute;
     top: 50%;

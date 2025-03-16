@@ -13,6 +13,16 @@ body {
     transform: translate(-50%, -50%);
 }
 
-mono {
-    font-family: monospace;
+
+a:link {
+  color: orangered;
+}
+a:visited {
+  color: red;
+}
+a:hover {
+  color: orange;
+}
+a:active {
+  color: red;
 }

@@ -2,15 +2,16 @@
 /* -- main BRANCH, 2025 -- */
 
 body {
-    color: white;
-    background-color: black;
+  color: white;
+  background-color: black;
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .maintable {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 

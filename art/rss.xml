@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nacroni | Art</title>
+    <title>Nacroni - Art</title>
     <description>Nacroni's art!</description>
     <link>https://nacroni.pages.dev/art/</link>
     <language>en-us</language>
     <managingEditor>whenthewallsbend@proton.me (Nacroni)</managingEditor>
     <webMaster>whenthewallsbend@proton.me (Nacroni)</webMaster>
+    <pubDate>Thu, 19 Jun 2025 22:50:37 EST</pubDate>
     <category>Art</category>
     <docs>https://www.rssboard.org/rss-specification</docs>
+    <atom:link href="https://nacroni.pages.dev/art/rss.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>Goodnight Goodra goodnight</title>
       <description>A doodle of a Goodra laying on their front.</description>
       <link>https://nacroni.pages.dev/art/02</link>
+      <pubDate>Thu, 19 Jun 2025 22:50:37 EST</pubDate>
+      <guid isPermaLink="true">https://nacroni.pages.dev/art/02</guid>
       <enclosure url="https://nacroni.pages.dev/assets/media/art/02/Screenshot%202025-06-19%20235035.png" length="9809" type="image/png" />
     </item>
 
@@ -21,6 +25,8 @@
       <title>new day new goodra</title>
       <description>A doodle of a Goodra.</description>
       <link>https://nacroni.pages.dev/art/01</link>
+      <pubDate>Wed, 18 Jun 2025 16:09:41 EST</pubDate>
+      <guid isPermaLink="true">https://nacroni.pages.dev/art/01</guid>
       <enclosure url="https://nacroni.pages.dev/assets/media/art/01/Screenshot%202025-06-18%20170938.png" length="11282" type="image/png" />
     </item>
 
@@ -28,6 +34,8 @@
       <title>i tried my best. goodr</title>
       <description>A doodle of a stickfigure thinking about a Goodra.</description>
       <link>https://nacroni.pages.dev/art/00</link>
+      <pubDate>Sat, 14 Jun 2025 20:48:30 EST</pubDate>
+      <guid isPermaLink="true">https://nacroni.pages.dev/art/00</guid>
       <enclosure url="https://nacroni.pages.dev/assets/media/art/00/i%20tried%20my%20best.%20goodr.png" length="18493" type="image/png" />
     </item>
 

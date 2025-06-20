@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Nacroni | Art</title>
+    <description>Nacroni's art!</description>
+    <link>https://nacroni.pages.dev/art/</link>
+    <language>en-us</language>
+    <managingEditor>whenthewallsbend@proton.me (Nacroni)</managingEditor>
+    <webMaster>whenthewallsbend@proton.me (Nacroni)</webMaster>
+    <category>Art</category>
+    <docs>https://www.rssboard.org/rss-specification</docs>
+
+    <item>
+      <title>Goodnight Goodra goodnight</title>
+      <description>A doodle of a Goodra laying on their front.</description>
+      <link>https://nacroni.pages.dev/art/02</link>
+      <enclosure url="https://nacroni.pages.dev/assets/media/art/02/Screenshot%202025-06-19%20235035.png" length="9809" type="image/png" />
+    </item>
+
+    <item>
+      <title>new day new goodra</title>
+      <description>A doodle of a Goodra.</description>
+      <link>https://nacroni.pages.dev/art/01</link>
+      <enclosure url="https://nacroni.pages.dev/assets/media/art/01/Screenshot%202025-06-18%20170938.png" length="11282" type="image/png" />
+    </item>
+
+    <item>
+      <title>i tried my best. goodr</title>
+      <description>A doodle of a stickfigure thinking about a Goodra.</description>
+      <link>https://nacroni.pages.dev/art/00</link>
+      <enclosure url="https://nacroni.pages.dev/assets/media/art/00/i%20tried%20my%20best.%20goodr.png" length="18493" type="image/png" />
+    </item>
+
+  </channel>
+</rss>
